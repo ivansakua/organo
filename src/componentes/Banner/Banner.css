@@ -1,0 +1,14 @@
+/*
+
+*/
+/* 
+    Created on : 09/01/2023, 20:11:17
+    Author     : Ivan Armond Sant Anna
+*/
+.banner_topo    {
+    width: 100%;
+    height: 40vw;    
+    background: url("../../../public/imagens/banner.webp") no-repeat;
+    background-size: 100%;
+    background-position: center;
+}

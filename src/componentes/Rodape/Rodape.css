@@ -1,0 +1,32 @@
+/*
+
+*/
+/* 
+    Created on : 10/01/2023, 17:52:40
+    Author     : Ivan Armond Sant Anna
+*/
+.footer {
+    background-color: #6278F7;
+    color: #FFFFFF;
+    padding: 40px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer ul li   {
+    display: inline-block;
+    margin-right: 32px;
+}
+
+.footer ul li:last-child    {
+    margin-right: 0;
+}
+
+.footer .redes_sociais  {
+    width: 20px;
+}
+
+.footer .logo_organo    {
+    width: 80px;
+}

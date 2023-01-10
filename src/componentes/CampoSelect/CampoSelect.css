@@ -1,0 +1,29 @@
+/*
+
+*/
+/* 
+    Created on : 09/01/2023, 22:23:44
+    Author     : Ivan Armond Sant Anna
+*/
+.campo_select   {
+    margin: 24px 0;    
+}
+
+.campo_select label  {
+    padding: 0 10px;
+    text-align: left;
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+}
+
+.campo_select select  {
+    background-color: white;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    font-size: 24px;
+    border: none;
+    padding: 24px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
